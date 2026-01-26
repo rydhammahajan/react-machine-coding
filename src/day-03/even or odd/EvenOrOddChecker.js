@@ -1,5 +1,5 @@
 import React, { useState , useEffect } from 'react';
-import "./EvenOrOddChecker.css";
+import "./EvenOrOddChecker.module.css";
 
 function EvenOrOddChecker() {
 
