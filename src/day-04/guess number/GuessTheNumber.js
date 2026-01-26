@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './GuessTheNumber.css'
+import './GuessTheNumber.module.css'
 
 function GuessTheNumber() {
 

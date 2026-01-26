@@ -1,4 +1,4 @@
-body {
+/* body {
   background: linear-gradient(135deg, #e1e8ff, #c7d2ff);
   padding: 2rem;
   margin: 0;
@@ -8,7 +8,7 @@ body {
   justify-content: center;
   box-sizing: border-box;
   height: 100vh;
-}
+} */
 
 .container {
   background: #ffffffdd;

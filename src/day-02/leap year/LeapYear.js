@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./styles.css";
+import "./LeapYear.module.css";
 
 export default function LeapYear() {
 
