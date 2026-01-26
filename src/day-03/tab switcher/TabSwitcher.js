@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import "./styles.css"
+import "./TabSwitcher.css"
 
 // Sample tab data
 const tabs = [

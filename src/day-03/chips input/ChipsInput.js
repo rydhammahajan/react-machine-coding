@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './styles.css'
+import './ChipsInput.css'
 function ChipsInput() {
 
   const [inputArray, setInputArray] = useState([]);
