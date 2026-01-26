@@ -8,6 +8,11 @@ import EvenOrOddChecker from "./day-03/even or odd/EvenOrOddChecker";
 import ChipsInput from "./day-03/chips input/ChipsInput";
 import ProgressBar from "./day-03/progress bar/ProgressBar";
 import TabSwitcher from "./day-03/tab switcher/TabSwitcher";
+import FaqAccordion from "./day-04/frequently asked questions/FaqAccordion";
+import UserProfile from "./day-04/user profile/UserProfile";
+import GuessTheNumber from "./day-04/guess number/GuessTheNumber";
+import CharacterCount from "./day-04/character count/CharacterCount";
+import RecipeFilterApp from "./day-04/filter recipes/RecipeFilterApp";
 
 function App() {
   return (
@@ -21,7 +26,12 @@ function App() {
       {/* <EvenOrOddChecker/> */}
       {/* <ChipsInput/> */}
       {/* <ProgressBar/> */}
-      <TabSwitcher/>
+      {/* <TabSwitcher/> */}
+      {/* <FaqAccordion/> */}
+      {/* <UserProfile/> */}
+      {/* <GuessTheNumber/> */}
+      {/* <CharacterCount/> */}
+      <RecipeFilterApp/>
       
     </div>
   );
