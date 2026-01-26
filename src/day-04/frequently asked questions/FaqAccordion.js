@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { FiChevronDown, FiChevronUp } from "react-icons/fi";
-import "./styles.css";
+import "./FaqAccordion.module.css";
 
 const faqs = [
   {

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FaChevronDown, FaChevronUp } from "react-icons/fa"; 
-import './styles.css'
+import './Accordion.module.css'
 import { items } from "./const";
 
 function Accordion() {

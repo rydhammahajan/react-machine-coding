@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./CharacterCount.css"
+import "./CharacterCount.module.css"
 
 function CharacterCount() {
 

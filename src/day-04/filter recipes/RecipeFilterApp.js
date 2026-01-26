@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { recipesData } from "./const.js";
-import "./RecipeFilterApp.css"; 
+import "./RecipeFilterApp.module.css"; 
 
 const Recipe = ({name , cuisine ,image , rating , reviewCount , setCartCount}) => {
 

@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import "./AutoSaveInput.module.css"
 
 function AutoSaveInput() {
   const [text, setText] = useState(localStorage.getItem("autoText")|| "");

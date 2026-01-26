@@ -30,8 +30,8 @@ function App() {
       {/* <FaqAccordion/> */}
       {/* <UserProfile/> */}
       {/* <GuessTheNumber/> */}
-      {/* <CharacterCount/> */}
-      <RecipeFilterApp/>
+      <CharacterCount/>
+      {/* <RecipeFilterApp/> */}
       
     </div>
   );
