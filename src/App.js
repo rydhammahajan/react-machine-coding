@@ -13,6 +13,10 @@ import UserProfile from "./day-04/user profile/UserProfile";
 import GuessTheNumber from "./day-04/guess number/GuessTheNumber";
 import CharacterCount from "./day-04/character count/CharacterCount";
 import RecipeFilterApp from "./day-04/filter recipes/RecipeFilterApp";
+import AgeCalculator from "./day-05/age calculator/ageCalculator";
+import BackToTop from "./day-05/back to top/backToTop";
+import DarkModeToggle from "./day-05/dark mode/darkMode";
+import HolyGrail from "./day-05/holy grail/holygrail";
 
 function App() {
   return (
@@ -30,8 +34,12 @@ function App() {
       {/* <FaqAccordion/> */}
       {/* <UserProfile/> */}
       {/* <GuessTheNumber/> */}
-      <CharacterCount/>
+      {/* <CharacterCount/> */}
       {/* <RecipeFilterApp/> */}
+      {/* <AgeCalculator/> */}
+      {/* <BackToTop/> */}
+      {/* <DarkModeToggle/> */}
+      <HolyGrail/>
       
     </div>
   );
