@@ -28,6 +28,7 @@
     "lightningcss": "^1.31.1",
     "lightningcss-win32-x64-msvc": "^1.31.1",
     "lmdb": "^2.8.5",
+    "lucide-react": "^0.563.0",
     "msgpackr": "^1.11.8",
     "msgpackr-extract": "^3.0.3",
     "node-addon-api": "^7.1.1",

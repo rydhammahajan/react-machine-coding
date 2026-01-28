@@ -17,6 +17,11 @@ import AgeCalculator from "./day-05/age calculator/ageCalculator";
 import BackToTop from "./day-05/back to top/backToTop";
 import DarkModeToggle from "./day-05/dark mode/darkMode";
 import HolyGrail from "./day-05/holy grail/holygrail";
+import ConfirmationModal from "./day-06/confirmation modal/ConfirmationModal";
+import ContactForm from "./day-06/contact form/ContactForm";
+import CopyClipboard from "./day-06/copy clipboard/CopyClipboard";
+import InputFocus from "./day-06/focus input/FocusInput";
+import Sidebar from "./day-06/sidebar/sidebar";
 
 function App() {
   return (
@@ -39,7 +44,12 @@ function App() {
       {/* <AgeCalculator/> */}
       {/* <BackToTop/> */}
       {/* <DarkModeToggle/> */}
-      <HolyGrail/>
+      {/* <HolyGrail/> */}
+      <ConfirmationModal/>
+      {/* <ContactForm/> */}
+      {/* <CopyClipboard/> */}
+      {/* <InputFocus/> */}
+      {/* <Sidebar/> */}
       
     </div>
   );
